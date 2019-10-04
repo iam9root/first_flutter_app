@@ -2,10 +2,10 @@
 
 A new Flutter application.
 
-## Example of execution 실행 
+## Example of execution  실행 예시
 <img src="./1.jpg" width="50%" height="100%"><img src="./2.jpg" width="50%" height="100%">
 
-
+리스트를 보여주고 하트 체크가 된 리스트의 경우 Liked Suggestions에 값을 넘겨 보여준다.
 
 ## Getting Started
 
