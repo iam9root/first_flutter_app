@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Example of execution
-[main]!(./1.jpg)[main2]!(./2.jpg)
+![main](./1.jpg)![main2](./2.jpg)
 
 
 ## Getting Started
