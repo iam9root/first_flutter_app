@@ -4,8 +4,8 @@
 A new Flutter application.
 
 ## Example of execution
-![main](./1.jpg){: width="50px" height="100px"}
-![main2](./2.jpg){: width="50px" height="100px"}
+![main](./1.jpg){: width="10%" height="10%"}
+![main2](./2.jpg){: width="10%" height="10%"}
 
 
 ## Getting Started
