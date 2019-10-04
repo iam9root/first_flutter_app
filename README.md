@@ -1,9 +1,10 @@
 # first_flutter_app
+# 플러터앱 
 
 A new Flutter application.
 
 ## Example of execution
-![main](./1.jpg)![main2](./2.jpg)
+![main](./1.jpg){: width="50%" height="100%"}![main2](./2.jpg){: width="50%" height="100%"}
 
 
 ## Getting Started
