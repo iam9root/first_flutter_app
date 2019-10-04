@@ -4,9 +4,9 @@
 A new Flutter application.
 
 ## Example of execution
-<img src="./1.jpg" width="20" height="20">
-![main](./1.jpg){: width="10%" height="10%"}
-![main2](./2.jpg){: width="10%" height="10%"}
+<img src="./1.jpg" width="50%" height="100%">
+<img src="./2.jpg" width="50%" height="100%">
+
 
 
 ## Getting Started
