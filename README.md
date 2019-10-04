@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+## Example of execution
+[main]!(./1.jpg)[main2]!(./2.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
