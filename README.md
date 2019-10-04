@@ -1,9 +1,8 @@
-# first_flutter_app
-# 플러터앱 
+# first_flutter_app 플러터 애플리케이션
 
 A new Flutter application.
 
-## Example of execution
+## Example of execution 실행 
 <img src="./1.jpg" width="50%" height="100%"><img src="./2.jpg" width="50%" height="100%">
 
 
