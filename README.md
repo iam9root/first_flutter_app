@@ -4,8 +4,7 @@
 A new Flutter application.
 
 ## Example of execution
-<img src="./1.jpg" width="50%" height="100%">
-<img src="./2.jpg" width="50%" height="100%">
+<img src="./1.jpg" width="50%" height="100%"><img src="./2.jpg" width="50%" height="100%">
 
 
 
